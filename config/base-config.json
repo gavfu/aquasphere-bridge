@@ -1,0 +1,22 @@
+{
+  "basics": {
+    "eventLogPath": "transfer_event.log"
+  },
+  "contract": {
+    "eth": {
+      "ent": {
+        "address": "0xfcC1BD31510865DFe2d4355aded3E0769d1289e2",
+        "networkUrl": "wss://rinkeby.infura.io/ws/v3/fbf27270f23f4bccbf217fd984367d26"
+      }
+    },
+    "aqua": {
+      "ent": {
+        "address": "5EYD4h3ipW9xY8vSk6RxD4MmfxFEit192x2NUPX5C1RydMNU",
+        "networkUrl": "wss://rpc.aquasphere.io",
+        "cryptoType": "sr25519",
+        "poolPhrase": "plate small jump zero tragic tragic tortoise palace wrestle protect bundle luxury",
+        "decimal": 1000000
+      }
+    }
+  }
+}
